@@ -10,7 +10,7 @@ I'm a fullstack web-developer from Kathmandu, Nepal. I am a Computer Science and
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [prajjwal.com.np](https://prajjwal.com.np)
+- My Personal Website :yum: [prajjwalrai.com.np](https://prajjwal.com.np)
 
 Here are some ideas to get you started:
 
