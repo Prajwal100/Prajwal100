@@ -1,5 +1,5 @@
 ## Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 I'm a fullstack web-developer from Kathmandu, Nepal. I am a Computer Science and Information Technology undergraduate student at Prime College, Nepal. I like building new stuff and work with other people.
 
 
