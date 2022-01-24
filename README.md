@@ -15,8 +15,8 @@ I'm a fullstack web-developer from Kathmandu, Nepal. I am a Computer Science and
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Suprime IT solution
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Swivt Technologies
+- 🌱 I’m currently learning Flutter & VueJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
