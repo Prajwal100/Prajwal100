@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <!--- just --->
 
 ![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
+![VueJs](https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
