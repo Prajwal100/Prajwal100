@@ -1,7 +1,7 @@
 ## Hi there नमस्ते (Namaste)! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I'm a fullstack web-developer from Kathmandu, Nepal. I am a Computer Science and Information Technology undergraduate student at Prime College, Nepal. I like building new stuff and work with other people.
+I'm a full-stack web-developer from Kathmandu, Nepal. I graduated in Computer Science and Information Technology from Prime College, Nepal. I like building new stuff and working with other people.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prajwal.iar/)](https://instagram.com/prajwal.iar)
