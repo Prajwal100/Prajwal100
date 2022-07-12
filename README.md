@@ -9,6 +9,10 @@ I'm a full-stack web-developer from Kathmandu, Nepal. I graduated in Computer Sc
 [![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
 [![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
 
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/prajwalrai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 ### You can find my stuff here :leaves:
 
 - My Personal Website :yum: [raiprajwal.com](https://raiprajwal.com)
@@ -56,3 +60,11 @@ Here are some ideas to get you started:
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 <br />
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
