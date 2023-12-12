@@ -20,7 +20,7 @@ Like My Work?
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Swivt Technologies
-- 🌱 I’m currently learning Flutter & VueJS
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -33,9 +33,12 @@ Here are some ideas to get you started:
 <!--- just --->
 
 ![Laravel](https://img.shields.io/badge/-Laravel-00599C?style=flat-square&logo=Laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![VueJs](https://img.shields.io/badge/vuejs-2.x-brightgreen.svg?style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-2F323A?style=flat-square&logo=TypeORM&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
