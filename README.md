@@ -11,7 +11,7 @@ I'm a full-stack web-developer from Kathmandu, Nepal. I graduated in Computer Sc
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/prajwalrai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+[![Hire Me on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-brightgreen?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)
 
 ### You can find my stuff here :leaves:
 
