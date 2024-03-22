@@ -19,7 +19,7 @@ Like My Work?
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Swivt Technologies
+- 🔭 I’m currently working on Dimitra Technology
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
